@@ -1,0 +1,52 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+    background-color: gray;
+}
+
+.card{
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px 40px black;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.card-title{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500px;
+}
+
+
+.card-sub{
+    font-size: 12px;
+    font-weight: 300px;
+    margin-top: 20px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    border-radius: 11px;
+}
+
+.btn-kepper{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn{
+    background-color: rgb(56, 67, 230);
+    padding: 7px 12px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    
+
+}
+
+.btn:hover{
+    background-color: brown;
+}
